@@ -1,0 +1,9 @@
+# Editor and OS noise
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# Nothing is built here, but keep stray output out anyway
+node_modules/
+*.log
