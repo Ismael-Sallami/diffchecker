@@ -112,8 +112,5 @@ unchanged pair produces no blocks, and the row list and the merge always agree.
 ## Author and licence
 
 Ismael Sallami Moreno. Released under the MIT licence (see `LICENSE`).
-
-Deployed at [elblogdeismael.github.io/diffchecker](https://elblogdeismael.github.io/diffchecker/),
-which is why the canonical URL and the navigation in `src/index.html` point
-there. That site keeps its own copy of this code: **if the engine changes, both
-have to change.**
+Deployed at [ismael-sallami.github.io/diffchecker](https://ismael-sallami.github.io/diffchecker/) via GitHub Pages.
+It uses the brutalist design system from [El Blog de Ismael](https://elblogdeismael.github.io/), completely self-contained within this repository.
